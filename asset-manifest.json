@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/helengao/static/css/main.5dd3b7e7.chunk.css",
+    "main.js": "/helengao/static/js/main.d6cd857a.chunk.js",
+    "main.js.map": "/helengao/static/js/main.d6cd857a.chunk.js.map",
+    "runtime-main.js": "/helengao/static/js/runtime-main.e0a639f8.js",
+    "runtime-main.js.map": "/helengao/static/js/runtime-main.e0a639f8.js.map",
+    "static/js/2.6074a4a7.chunk.js": "/helengao/static/js/2.6074a4a7.chunk.js",
+    "static/js/2.6074a4a7.chunk.js.map": "/helengao/static/js/2.6074a4a7.chunk.js.map",
+    "index.html": "/helengao/index.html",
+    "precache-manifest.0cda6865a1a75ca1c4e3d4b4b6878556.js": "/helengao/precache-manifest.0cda6865a1a75ca1c4e3d4b4b6878556.js",
+    "service-worker.js": "/helengao/service-worker.js",
+    "static/css/main.5dd3b7e7.chunk.css.map": "/helengao/static/css/main.5dd3b7e7.chunk.css.map",
+    "static/js/2.6074a4a7.chunk.js.LICENSE.txt": "/helengao/static/js/2.6074a4a7.chunk.js.LICENSE.txt",
+    "static/media/IMG_2992.JPG": "/helengao/static/media/IMG_2992.675103ce.JPG",
+    "static/media/assets.png": "/helengao/static/media/assets.8b96975f.png",
+    "static/media/login.png": "/helengao/static/media/login.350d9243.png",
+    "static/media/index.css": "/helengao/static/media/new-background.d1cc33ce.png",
+    "static/media/trans.png": "/helengao/static/media/trans.c0cb0607.png",
+    "static/media/whitelist.png": "/helengao/static/media/whitelist.5ab55aab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0a639f8.js",
+    "static/js/2.6074a4a7.chunk.js",
+    "static/css/main.5dd3b7e7.chunk.css",
+    "static/js/main.d6cd857a.chunk.js"
+  ]
+}
